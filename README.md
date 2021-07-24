@@ -1,4 +1,4 @@
-## Hello there 👋
+<img src="./images/hello.jpg" width="80%" height="450px" />
 
 ![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vorava&repo=vorava-visitors-badge&countColorcountColor&color=26c6da)
 
