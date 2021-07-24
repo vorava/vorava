@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello there 👋
+
+![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vorava&repo=vorava-visitors-badge&countColorcountColor&color=26c6da)
 
 <!--
 **vorava/vorava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
