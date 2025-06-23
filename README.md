@@ -2,7 +2,7 @@
   <tr>
     <td> <img src="./images/hello.gif"> </td>
     <td> 
-      <!--<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vorava&repo=vorava-visitors-badge&countColorcountColor&color=26c6da"> -->
+      <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vorava&repo=vorava-visitors-badge&countColorcountColor&color=26c6da">
        <br>
       <a href="https://pypi.org/user/vorava/" target="_blank">
         <img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff">
