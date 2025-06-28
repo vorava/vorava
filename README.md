@@ -42,7 +42,7 @@ I have a bachelor degree from FIT VUT Brno.
 > Repository: [https://github.com/vorava/BP](https://github.com/vorava/BP)
 
 ### 💻 Projects
-I have many school projects, some o them are public here as repositories. Many more of them are stored on GitHub as private.
+I have many school projects, ranging from network applications in C to ML algorithms in Python. Some of them are public here as repositories. Many more of them are stored on GitHub as private.
 
 I have spent a semester as Erasmus+ student in Pisa (project from there are [here](https://github.com/vorava/UniPi_ISPR)).
 
@@ -50,7 +50,7 @@ I have created some **PyPi** [packages](https://pypi.org/user/vorava/).
 
 I am running a small [sport related website](http://www.webon.wz.cz/index2.php) for friends.
 
-We made a [smart city ticket system](https://chytremestoiis.g6.cz/ticket) with team from university
+We made a [smart city ticket system](https://chytremestoiis.g6.cz/ticket) with team from university.
 
 
 <!--
