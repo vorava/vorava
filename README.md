@@ -50,6 +50,8 @@ I have created some **PyPi** [packages](https://pypi.org/user/vorava/).
 
 I am running a small [sport related website](http://www.webon.wz.cz/index2.php) for friends.
 
+We made a [smart city ticket system](https://chytremestoiis.g6.cz/ticket) with team from university
+
 
 <!--
 **vorava/vorava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
