@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
       </a>
       <br>
-      <a href="www.linkedin.com/in/vojtech-orava-04bba6327" target="_blank">
+      <a href="https://linkedin.com/in/vojtech-orava-04bba6327" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
       </a>
     </td>
