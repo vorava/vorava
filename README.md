@@ -21,12 +21,12 @@
 
 <h1>⚡ Welcome to my profile! ⚡</h1>
 
-My name is Vojtěch Orava and I am Ing student at FIT VUT Brno. My specialization is Machine Learning. I speak Czech and English. My CS interests are AI, ML and data analysis. I also like Raspberry Pi. 
+My name is Vojtěch Orava and I am Ing. student at FIT VUT Brno. My specialization is Machine Learning. I speak Czech and English. My CS interests are AI, ML and data analysis. I also like Raspberry Pi. 
 
 🤖 Main technologies that I use:
 - Python
 - C/C++ (school projects)
-- Web technologies
+- Web technologies (basics)
 - TensorFlow 2
 - Latex
 - Fundamentals of Java
@@ -34,11 +34,11 @@ My name is Vojtěch Orava and I am Ing student at FIT VUT Brno. My specializatio
 ### 📧 Contact
 You can reach me via email: **vojtech.orava@gmail.com**
 
-### 📖 Bachelors thesis 
+### 📖 Bachelor thesis 
 I have a bachelor degree from FIT VUT Brno.
 
 *ACCELERATION OF A NEURAL NETWORK FOR FACE DETECTION IN LOW LIGHT CONDITIONS*
-> Link to my Bachelors Thesis: [https://www.vut.cz/studenti/zav-prace/detail/147660](https://www.vut.cz/studenti/zav-prace/detail/147660).
+> Link to my Bachelor Thesis: [https://www.vut.cz/studenti/zav-prace/detail/147660](https://www.vut.cz/studenti/zav-prace/detail/147660).
 > Repository: [https://github.com/vorava/BP](https://github.com/vorava/BP)
 
 ### 💻 Projects
@@ -51,6 +51,8 @@ I have created some **PyPi** [packages](https://pypi.org/user/vorava/).
 I am running a small [sport related website](http://www.webon.wz.cz/index2.php) for friends.
 
 We made a [smart city ticket system](https://chytremestoiis.g6.cz/ticket) with team from university.
+
+My newest application is **AI kupi.cz chef** 👨‍🍳, you can find it [here](https://github.com/vorava/ai_kupi_chef).
 
 
 <!--
